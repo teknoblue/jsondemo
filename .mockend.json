@@ -1,0 +1,21 @@
+{
+    "POST" : {
+        "success": true,
+        "message": [
+            {
+                "email": "muhammedalkan@msn.com",
+                "password": "1",
+                "bussname": "Aurasia City",
+                "module": "HOTEL",
+                "connstr": "Aurasia City Hotel String"
+            },
+            {
+                "email": "muhammedalkan@msn.com",
+                "password": "1",
+                "bussname": "Aurasia City",
+                "module": "POS",
+                "connstr": "Aurasia City Pos String"
+            }
+        ]
+    }
+}
